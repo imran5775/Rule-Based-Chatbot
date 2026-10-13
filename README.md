@@ -29,8 +29,8 @@ Instead of a long `if-elif` ladder (O(n)), all patterns are stored in one dictio
 Requires **Python 3.9+**.
 
 ```bash
-git clone https://github.com/<imran5775>/rule-based-chatbot.git
-cd rule-based-chatbot
+git clone https://github.com/imran5775/Rule-Based-Chatbot.git
+cd Rule-Based-Chatbot
 python chatbot.py
 ```
 
